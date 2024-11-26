@@ -1,5 +1,5 @@
 # Ship Image Classification using Deep Learning
-#### Ahsan Khan | 11-27-2024
+#### Ahsan Khan | 11-26-2024
 ##### [Github Repository](https://github.com/Ahsanakhan/CSCA-5642-Final-Project)
 
 ## Introduction
